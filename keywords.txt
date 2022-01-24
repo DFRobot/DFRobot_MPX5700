@@ -1,0 +1,24 @@
+#######################################
+# Syntax Coloring DFRobot_MPX5700
+#######################################
+
+#######################################
+
+#######################################
+
+getPressureValue_kpa   KEYWORD2
+setMeanSampleSize       KEYWORD2
+calibration_kpa     KEYWORD2
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+DFRobot_MPX5700 KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+PROTOCOL_HEAD LITERAL1
+PROTOCOL_TAIL LITERAL1
+REF_VOLTAGE LITERAL1
+STM8S_RESOLUTION LITERAL1
